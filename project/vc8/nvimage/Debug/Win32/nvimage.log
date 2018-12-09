@@ -1,0 +1,82 @@
+﻿  Quantize.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  NormalMap.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1933): warning C4005: “snprintf”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(21): note: 参见“snprintf”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1935): fatal error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  ImageIO.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1933): warning C4005: “snprintf”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(21): note: 参见“snprintf”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1935): fatal error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  Image.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1933): warning C4005: “snprintf”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(21): note: 参见“snprintf”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1935): fatal error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  FloatImage.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvmath\matrix.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvmath\matrix.h(301): warning C4244: “初始化”: 从“double”转换到“nv::scalar”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvmath\matrix.h(313): warning C4244: “初始化”: 从“double”转换到“nv::scalar”，可能丢失数据
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1933): warning C4005: “snprintf”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(21): note: 参见“snprintf”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1935): fatal error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  Filter.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(53): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(190): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(214): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvimage\filter.cpp(340): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  DirectDrawSurface.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1933): warning C4005: “snprintf”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(21): note: 参见“snprintf”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1935): fatal error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  ColorBlock.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  BlockDXT.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\stdarg.h(20): warning C4005: “va_copy”: 宏重定义
+  c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\defsvcwin32.h(29): note: 参见“va_copy”的前一个定义
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(31): warning C4595: “operator new”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(36): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(41): warning C4595: “operator new[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+c:\program files\nvidia corporation\nvidia texture tools 2\src\src\nvcore\memory.h(46): warning C4595: “operator delete[]”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  正在生成代码...
